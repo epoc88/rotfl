@@ -20,3 +20,15 @@ The group can test different technologies and techniques in their product and ha
 The work will eventually lead to some research papers and if the team has enthusiasm in that field, their input is greatly appreciated.
 The code will be published as open source and the documentation will be just light enough to other people to participate in development later on.
 If the project group wants to, the control room can be implemented in e.g. QT, so it will be easily portable to other platforms, even mobile ones.
+
+
+Project URL http://www.cs.tut.fi/~niu/taurus/
+
+
+Name	          Email	                  Responsibility
+Longchuan Niu 	l.niu@tut.fi	          Project manager, Lead Developer
+Heikki Sarkanen	heikki.sarkanen@tut.fi	UI, Lead developer
+Joonas Pessi	  joonas.pessi@tut.fi	    Embedded Software
+Ville Jokela	  ville.jokela@tut.fi	    Developer
+Juhani Järvinen	juhani.jarvinen@tut.fi	Architect, Lead developer
+Miao Zhao	      miao.zhao@tut.fi	      Documentation
