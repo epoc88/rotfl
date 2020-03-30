@@ -32,10 +32,6 @@ Project URL http://www.cs.tut.fi/~niu/taurus/
 | Joonas Pessi    | joonas.pessi@tut.fi     | Embedded Software, git help      | 
 | Ville Jokela    | ville.jokela@tut.fi     | Developer                        | 
 | Miao Zhao	      | miao.zhao@tut.fi	      | Documentation                    | 
-Name	          Email	                  Responsibility
-Longchuan Niu 	l.niu@tut.fi	          Project manager, Lead Developer
-Heikki Sarkanen	heikki.sarkanen@tut.fi	UI, Lead developer
-Joonas Pessi	  joonas.pessi@tut.fi	    Embedded Software
-Ville Jokela	  ville.jokela@tut.fi	    Developer
-Juhani Järvinen	juhani.jarvinen@tut.fi	Architect, Lead developer
-Miao Zhao	      miao.zhao@tut.fi	      Documentation
+
+
+
