@@ -36,7 +36,7 @@ Project URL http://www.cs.tut.fi/~niu/taurus/
 | Miao Zhao	      | miao.zhao@tut.fi	      | Documentation                    | 
 
 
-<video width="1328" height="735" controls preload> 
+<video poster="rotfl.jpg" width="1328" height="735" controls preload> 
     <source src="rotfl.mp4"></source> 
 </video>
 
