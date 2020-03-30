@@ -24,7 +24,14 @@ If the project group wants to, the control room can be implemented in e.g. QT, s
 
 Project URL http://www.cs.tut.fi/~niu/taurus/
 
-
+| Name	          | Email	                  | Responsibility                   |
+| --------------- | ----------------------- | -------------------------------- |
+| Longchuan Niu   | l.niu@tut.fi            | Project manager, Lead Developer  | 
+| Heikki Sarkanen | heikki.sarkanen@tut.fi  | UI, Lead developer               | 
+| Juhani Järvinen | juhani.jarvinen@tut.fi  | Architect, Lead developer        | 
+| Joonas Pessi    | joonas.pessi@tut.fi     | Embedded Software, git help      | 
+| Ville Jokela    | ville.jokela@tut.fi     | Developer                        | 
+| Miao Zhao	      | miao.zhao@tut.fi	      | Documentation                    | 
 Name	          Email	                  Responsibility
 Longchuan Niu 	l.niu@tut.fi	          Project manager, Lead Developer
 Heikki Sarkanen	heikki.sarkanen@tut.fi	UI, Lead developer
