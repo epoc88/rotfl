@@ -3,7 +3,7 @@ ROTFL
 
 ROomba, The Fleet Management
 
-![Image description](link-to-image)<img src="rotfl.jpg">
+![Image description]<img src="rotfl.jpg">
 
 Rotfl uses external library copyright by Roowifi (roowifi.com) for communicating with Roomba over Wifi.
 
