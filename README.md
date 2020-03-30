@@ -3,6 +3,8 @@ ROTFL
 
 ROomba, The Fleet Management
 
+<img src="rotfl.jpg">
+
 Rotfl uses external library copyright by Roowifi (roowifi.com) for communicating with Roomba over Wifi.
 
 Hardware environment: Roomba Create robot platform, http://www.irobot.com/us/learn/Educators/Create.aspx and PC based control room software (either Windows or Linux)
@@ -34,4 +36,7 @@ Project URL http://www.cs.tut.fi/~niu/taurus/
 | Miao Zhao	      | miao.zhao@tut.fi	      | Documentation                    | 
 
 
+<video width="1328" height="735" controls preload> 
+    <source src="rotfl.mp4"></source> 
+</video>
 
