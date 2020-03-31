@@ -40,7 +40,7 @@ The link to the <a href=http://www.cs.tut.fi/~niu/taurus/TIE_PROJ_2013_GROUP12_R
 | Longchuan Niu   | l.niu@tut.fi            | Project manager, Lead Developer  | 
 | Heikki Sarkanen | heikki.sarkanen@tut.fi  | UI, Lead developer               | 
 | Juhani Järvinen | juhani.jarvinen@tut.fi  | Architect, Lead developer        | 
-| Joonas Pessi    | joonas.pessi@tut.fi     | Embedded Software, git help      | 
+| Joonas Pessi    | joonas.pessi@tut.fi     | Embedded Software, github support| 
 | Ville Jokela    | ville.jokela@tut.fi     | Developer                        | 
 | Miao Zhao	      | miao.zhao@tut.fi	      | Documentation                    | 
 
