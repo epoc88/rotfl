@@ -36,7 +36,4 @@ Project URL http://www.cs.tut.fi/~niu/taurus/
 | Miao Zhao	      | miao.zhao@tut.fi	      | Documentation                    | 
 
 
-<video poster="rotfl.jpg" width="1328" height="735" controls preload> 
-    <source src="rotfl.mp4"></source> 
-</video>
-
+The link to the <a href=http://www.cs.tut.fi/~niu/taurus/TIE_PROJ_2013_GROUP12_ROTFL_Project%20Plan_1.0.pdf>project plan</a>.
